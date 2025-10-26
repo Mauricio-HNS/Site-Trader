@@ -1,4 +1,4 @@
-<h1>Desgn By Destiny7 Softwares</h1>
+<h1>Desgned By Destiny7 Softwares</h1>
 # Setup Forge - Template de Site de Trading Profissional
 
 ## Descrição
